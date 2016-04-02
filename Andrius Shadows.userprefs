@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\RenderTextures\Assets\rotation.js">
+    <Files>
+      <File FileName="..\NewAssetBundles\Assets\LoadBundle.cs" Line="169" Column="41" />
+      <File FileName="..\RenderTextures\Assets\rotation.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\unite\Documents\5.x PROJECTS\RenderTextures\Assets\rotation.js" line="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
